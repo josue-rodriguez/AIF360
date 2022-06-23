@@ -5,3 +5,4 @@
 .httr-oauth
 .*.Rnb.cached
 .DS_Store
+R/test.R
